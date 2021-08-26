@@ -1,0 +1,13 @@
+[
+  {
+    "remote": "pixel-devices-blobs",
+    "repository": "vendor_motorola_msm8952-common",
+    "target_path": "vendor/motorola/msm8952-common",
+    "branch": "eleven"
+  },
+  {
+    "repository":  "kernel_motorola_msm8952",
+    "target_path": "kernel/motorola/msm8952",
+    "branch": "eleven"
+  }
+]
